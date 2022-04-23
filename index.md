@@ -2,9 +2,9 @@
 
 
 ![](pic.jpg)
-###Bio
+### Bio
 
-###Publications
+### Publications
 
-###Experiences
+### Experiences
 
